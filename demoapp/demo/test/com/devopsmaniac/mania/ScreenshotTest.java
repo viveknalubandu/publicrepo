@@ -18,7 +18,7 @@ import org.openqa.selenium.TakesScreenshot;
 
 //import org.apache.commons.io.FileUtils;
 
-
+// Add tests
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.io.PrintWriter;
