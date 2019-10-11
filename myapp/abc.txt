@@ -4,3 +4,4 @@ TRACK COMMIT
 Add second line
 ADD new commit 1.7
 ADD new commit 1.6
+ADD second new commit 1.6
