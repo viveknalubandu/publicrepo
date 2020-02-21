@@ -2,3 +2,4 @@ Add new file for devops testing
 Add new line
 
 Add 1.7 code commit 1
+Add 1.12 code commit 1
